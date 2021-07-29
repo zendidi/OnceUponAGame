@@ -6,4 +6,6 @@ La seule difficulté notable au niveau de la technologie fut que le jeu devais t
 
 Ce fût drôle de présenter un jeu à un public qui n'avait pour l'essentiel jamais joué à un jeu vidéo de sa vie. 
 
-LE client et les intervenants (qui s'y connaissaient en jeu vidéos, eux), furent satisfaient.
+Le client et les intervenants (qui s'y connaissaient en jeu vidéos, eux), furent satisfaient.
+
+Le projet est trop Volumineux pour être en entier sur Github mais je peux le tranférer via WETRANSFER sur demande
