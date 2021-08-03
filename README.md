@@ -9,3 +9,10 @@ Ce fût drôle de présenter un jeu à un public qui n'avait pour l'essentiel ja
 Le client et les intervenants (qui s'y connaissaient en jeu vidéos, eux), furent satisfaient.
 
 Le projet est trop Volumineux pour être en entier sur Github mais je peux le tranférer via WETRANSFER sur demande
+
+Rôle/fonctions:
+-Chef de projet
+-Game Designer 
+-Narrative Designer
+-Developpeur Unity
+
